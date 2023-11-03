@@ -10,6 +10,7 @@ private:
 public:
     IntVector2D() {
         x = 0;
+
         y = 0;
     }
 
